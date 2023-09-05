@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///d%3A/Newspace/%40advanced-astro/github-pages/.github/workflows/deploy.yml"
+  }
+}
