@@ -10,8 +10,11 @@ For more information, please see our complete deployment guide—[Deploy your As
 
 Inside of your Astro project, you'll see the following folders and files:
 
-```
+```text
 /
+├── .github
+│   └── workflows
+│       └── deploy.yml 
 ├── public/
 ├── src/
 │   └── pages/
